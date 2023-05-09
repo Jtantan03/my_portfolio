@@ -29,6 +29,10 @@
   height: 20%;
   border-radius: 50%;
 }
+
+#image {
+  width: 100%;
+}
 nav{
   position: fixed;
   top: 0;
